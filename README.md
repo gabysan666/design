@@ -1,4 +1,4 @@
-# **D E S I G N**
+# **DESIGN**
 ## *i want to change the world*
 ###### ~~too amazing to ignore~~ 
 * task1
