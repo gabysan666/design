@@ -14,4 +14,5 @@
 
 Lab in [NexPCB](https://nexpcb.com)
 
-![](img1/26.jpg)
+## cool photo
+![](img2/35e8056daecc9a01a19beeceee025d65.jpg)
